@@ -22,7 +22,7 @@ const Navbar = () => {
           <li className="hover:text-blue-700 cursor-pointer"><Link to="/about">About Us</Link></li>
           <li className="relative group">
             <li className="hover:text-blue-700 cursor-pointer">
-            <Link to="/buyerrequirements">BuyerRequirements</Link></li>
+            <Link to="/buyerrequirements">Buyer Requirements</Link></li>
            
           </li>
         </ul>
